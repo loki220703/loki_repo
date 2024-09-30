@@ -1,3 +1,4 @@
 # loki_repo
 iam loki
-god of evil
+god of devil
+git
